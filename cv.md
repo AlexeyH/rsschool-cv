@@ -3,7 +3,7 @@
     * Email : mailkeeper@tut.by,
     * Phone : +375291025198,
     * Skype : chitagrita.
-3. Summary: .
+3. Summary: .....
 4. Skills:
 programming languages: Javascript (expert), Java (expert), Python, C, C++, Matlab, R, C#, Swift, Go;
 frameworks: Node.js, Angular, Ember.js, Node.js, React, Vue.js, Backbone.js, Meteor, Ext.js, Polymer.js;
